@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="button1">Add User</string>
+    <string name="button2">Load All Users</string>
+    <string name="Name">Name</string>
+    <string name="Balance">Balance</string>
+    <string name="enter_balance">Enter Balance</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="make_transcation">Make Transcation</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="amount">Amount</string>
+    <string name="make_transaction">Make Transaction</string>
+
+
+</resources>
